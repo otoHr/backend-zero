@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "hoi dan it fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otoHr/backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Hoi Dan It",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otoHr/backend-zero/issues"
+  },
+  "homepage": "https://github.com/otoHr/backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
